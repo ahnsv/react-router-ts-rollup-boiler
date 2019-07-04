@@ -1,0 +1,35 @@
+{
+  "name": "react-router-ts-rollup-boiler",
+  "version": "1.0.0",
+  "description": "React with Router, powered by Typescript and bundled by Rollup",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "watch": "rollup -cw"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "ahnopologetic",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.23",
+    "@types/react-dom": "^16.8.4",
+    "@types/react-router-dom": "^4.3.4",
+    "@typescript-eslint/eslint-plugin": "^1.11.0",
+    "@typescript-eslint/parser": "^1.11.0",
+    "eslint": "^6.0.1",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2",
+    "rollup": "^1.16.4",
+    "rollup-plugin-typescript2": "^0.21.2",
+    "rollup-watch": "^4.3.1",
+    "typescript": "^3.5.2"
+  }
+}
