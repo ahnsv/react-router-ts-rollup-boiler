@@ -4,6 +4,7 @@ import livereload from 'rollup-plugin-livereload';
 import nodeResolve from 'rollup-plugin-node-resolve';
 import replace from 'rollup-plugin-replace';
 import commonjs from 'rollup-plugin-commonjs';
+import postcss from 'rollup-plugin-postcss';
 
 const DEV = 'development';
 const PROD = 'production';
@@ -26,6 +27,9 @@ export default {
                 'node_modules/react-dom/index.js': ['render'],
                 'node_modules/react/index.js': ['Component', 'PropTypes', 'createElement'],
             },
+        }),
+        postcss({
+            extensions: ['.css', '.scss'],
         }),
         serve({
             open: true,

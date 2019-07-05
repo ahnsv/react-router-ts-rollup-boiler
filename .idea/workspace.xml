@@ -2,50 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de7556ad-607d-4b0a-a9aa-0af2d48c0e9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/eslintPlugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_848c294c79cc1c861e81df44b8bf7f3e022d75d4/code/cache_/235d487f64ace55bdc28a5c7005c102a494b97da" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_848c294c79cc1c861e81df44b8bf7f3e022d75d4/semanticDiagnostics/cache_/235d487f64ace55bdc28a5c7005c102a494b97da" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_848c294c79cc1c861e81df44b8bf7f3e022d75d4/syntacticDiagnostics/cache_/235d487f64ace55bdc28a5c7005c102a494b97da" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_848c294c79cc1c861e81df44b8bf7f3e022d75d4/types/cache_/046d361e03b202665cfc5d5760ade8059368f9b8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_848c294c79cc1c861e81df44b8bf7f3e022d75d4/types/cache_/1aee73024ac7940291386df67822ec359c8972d3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_848c294c79cc1c861e81df44b8bf7f3e022d75d4/types/cache_/934bc25c67f15d9217a5166fed1a9236f52a9711" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_848c294c79cc1c861e81df44b8bf7f3e022d75d4/types/cache_/9c35bdc34ac1ace81c4d27123f58856439444fb3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_848c294c79cc1c861e81df44b8bf7f3e022d75d4/types/cache_/ab2b5daad6ac8277048d9c2060ae8e93f2aa0ee2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_848c294c79cc1c861e81df44b8bf7f3e022d75d4/types/cache_/cd59d5c55eff999f9f6d40a03364a889dfd1efe8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_848c294c79cc1c861e81df44b8bf7f3e022d75d4/types/cache_/d1518f1970fd6b8b4df7fea7912f277ddf5617ef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_848c294c79cc1c861e81df44b8bf7f3e022d75d4/types/cache_/e65f7f4ceb967f939b76f1aaaf8ed456d342f5f1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_894282df32aeab4e1c6d676d32b2ddfec24ef65b/code/cache_/235d487f64ace55bdc28a5c7005c102a494b97da" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_894282df32aeab4e1c6d676d32b2ddfec24ef65b/semanticDiagnostics/cache_/235d487f64ace55bdc28a5c7005c102a494b97da" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_894282df32aeab4e1c6d676d32b2ddfec24ef65b/syntacticDiagnostics/cache_/235d487f64ace55bdc28a5c7005c102a494b97da" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_894282df32aeab4e1c6d676d32b2ddfec24ef65b/types/cache_/046d361e03b202665cfc5d5760ade8059368f9b8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_894282df32aeab4e1c6d676d32b2ddfec24ef65b/types/cache_/1aee73024ac7940291386df67822ec359c8972d3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_894282df32aeab4e1c6d676d32b2ddfec24ef65b/types/cache_/934bc25c67f15d9217a5166fed1a9236f52a9711" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_894282df32aeab4e1c6d676d32b2ddfec24ef65b/types/cache_/9c35bdc34ac1ace81c4d27123f58856439444fb3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_894282df32aeab4e1c6d676d32b2ddfec24ef65b/types/cache_/ab2b5daad6ac8277048d9c2060ae8e93f2aa0ee2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_894282df32aeab4e1c6d676d32b2ddfec24ef65b/types/cache_/cd59d5c55eff999f9f6d40a03364a889dfd1efe8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_894282df32aeab4e1c6d676d32b2ddfec24ef65b/types/cache_/d1518f1970fd6b8b4df7fea7912f277ddf5617ef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_894282df32aeab4e1c6d676d32b2ddfec24ef65b/types/cache_/e65f7f4ceb967f939b76f1aaaf8ed456d342f5f1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_bfc7446a976fbaed219c8a7d0b9c15e94f3c95a6/code/cache/235d487f64ace55bdc28a5c7005c102a494b97da" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_bfc7446a976fbaed219c8a7d0b9c15e94f3c95a6/semanticDiagnostics/cache/235d487f64ace55bdc28a5c7005c102a494b97da" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_bfc7446a976fbaed219c8a7d0b9c15e94f3c95a6/syntacticDiagnostics/cache/235d487f64ace55bdc28a5c7005c102a494b97da" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_bfc7446a976fbaed219c8a7d0b9c15e94f3c95a6/types/cache/046d361e03b202665cfc5d5760ade8059368f9b8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_bfc7446a976fbaed219c8a7d0b9c15e94f3c95a6/types/cache/1aee73024ac7940291386df67822ec359c8972d3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_bfc7446a976fbaed219c8a7d0b9c15e94f3c95a6/types/cache/934bc25c67f15d9217a5166fed1a9236f52a9711" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_bfc7446a976fbaed219c8a7d0b9c15e94f3c95a6/types/cache/9c35bdc34ac1ace81c4d27123f58856439444fb3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_bfc7446a976fbaed219c8a7d0b9c15e94f3c95a6/types/cache/ab2b5daad6ac8277048d9c2060ae8e93f2aa0ee2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_bfc7446a976fbaed219c8a7d0b9c15e94f3c95a6/types/cache/cd59d5c55eff999f9f6d40a03364a889dfd1efe8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_bfc7446a976fbaed219c8a7d0b9c15e94f3c95a6/types/cache/d1518f1970fd6b8b4df7fea7912f277ddf5617ef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rpt2_cache/rpt2_bfc7446a976fbaed219c8a7d0b9c15e94f3c95a6/types/cache/e65f7f4ceb967f939b76f1aaaf8ed456d342f5f1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/About.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/test.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rollup.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/rollup.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/About.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About.tsx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -61,8 +24,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="-259">
               <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/style/test.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -79,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rollup.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+            <state relative-caret-position="229">
+              <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -100,7 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="173">
               <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
@@ -112,8 +84,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/About.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="224">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -130,7 +105,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="28">
               <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
             </state>
           </provider>
@@ -158,6 +133,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -169,8 +145,9 @@
         <option value="$PROJECT_DIR$/.eslintrc.json" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/src/components/About.tsx" />
         <option value="$PROJECT_DIR$/src/index.tsx" />
+        <option value="$PROJECT_DIR$/src/style/test.css" />
+        <option value="$PROJECT_DIR$/src/components/About.tsx" />
         <option value="$PROJECT_DIR$/rollup.config.js" />
       </list>
     </option>
@@ -200,6 +177,12 @@
               <item name="react-router-ts-rollup-boiler" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-router-ts-rollup-boiler" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-router-ts-rollup-boiler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-router-ts-rollup-boiler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -294,17 +277,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9640000" />
+    <option name="totallyTimeSpent" value="10487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24943988" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24943988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.47763577" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47763577" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -402,7 +385,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="28">
           <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
@@ -428,16 +411,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/About.tsx">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        <state relative-caret-position="-259">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/test.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
+        <state relative-caret-position="173">
           <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
@@ -445,17 +435,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/src/components/About.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        <state relative-caret-position="224">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rollup.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        <state relative-caret-position="229">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>
