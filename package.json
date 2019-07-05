@@ -4,8 +4,8 @@
   "description": "React with Router, powered by Typescript and bundled by Rollup",
   "main": "index.js",
   "scripts": {
-    "build": "rollup -c",
-    "watch": "rollup -cw",
+    "build": "npm run lint && rollup -c",
+    "watch": "npm run lint && rollup -cw",
     "lint": "eslint src/** --fix"
   },
   "keywords": [
