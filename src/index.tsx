@@ -1,6 +1,6 @@
-import * as React from 'react';
-import * as ReactDOM from 'react-dom';
-import About from './components/About';
+import * as React from "react";
+import * as ReactDOM from "react-dom";
+import About from "./components/About";
 
 /**
  * TODO
@@ -10,7 +10,7 @@ import About from './components/About';
  * @constructor
  */
 const Home: React.FunctionComponent = () => {
-    const hello = ' hello';
+    const hello = " hello";
     return (
         <div className={`home`}>
             {hello}
@@ -19,4 +19,4 @@ const Home: React.FunctionComponent = () => {
     );
 };
 
-ReactDOM.render(<Home />, document.getElementById('app'));
+ReactDOM.render(<Home />, document.getElementById("app"));

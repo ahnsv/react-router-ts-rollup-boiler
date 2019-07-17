@@ -1,5 +1,5 @@
-import * as React from 'react';
-import '../style/test.scss';
+import * as React from "react";
+import "../style/test.scss";
 
 interface AboutProps {
     name: string;
